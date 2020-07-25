@@ -1,3 +1,7 @@
+##This is the basic code to calculate the basic operation and it is
+##used as a resourse to test the git and github
+##Waiting for the pull request...
+##
 ## Function to add two numbers 
 def add(num1, num2): 
 	return num1 + num2 ;
